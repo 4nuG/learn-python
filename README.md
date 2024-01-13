@@ -1,3 +1,5 @@
+![Thumbnail](https://raw.githubusercontent.com/4nuG/learn-python/main/Learn-Python.png)
+
 # simple-python-scripts
 Python 3.9.12
 
