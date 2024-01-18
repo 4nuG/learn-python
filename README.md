@@ -42,6 +42,7 @@ python weather.py
 ```
 
 # Python Scripts and Descriptions
+(these scripts are in to_solve for you to implement should you need help with the basics, like really really basic stuff)
 - weather.py: Converts temperature from Celsius to Fahrenheit.
 - days.py: Calculates and prints the number of minutes in a year.
 - sphere.py: Takes the radius of a sphere as input and outputs the sphere's diameter, circumference, surface area, and volume.
