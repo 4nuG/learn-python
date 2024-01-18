@@ -3,6 +3,20 @@
 
 ![Thumbnail](https://raw.githubusercontent.com/4nuG/learn-python/main/Learn-Python.png)
 
+## Table of Contents
+
+- [Python Learning Examples](#python-learning-examples)
+  - [Prerequisites](#prerequisites)
+  - [How to Run](#how-to-run)
+  - [Python Scripts and Descriptions](#python-scripts-and-descriptions)
+    - [weather.py](#weatherpy)
+    - [days.py](#dayspy)
+    - [sphere.py](#spherepy)
+    - [palindrome.py](#palindromepy)
+    - [demorgan.py](#demorganpy)
+    - [letter_grade.py](#letter_gradepy)
+  - [Important Note](#important-note)
+
 # Python Learning Examples
 
 Welcome to the Python Learning Examples repository! This repository is designed to help you learn and practice Python by working on various programming tasks. The examples provided cover a range of topics, and each task comes with an empty file for you to attempt on your own. If you get stuck or want to check your solution, there is a corresponding file with a "(solved)" suffix.
