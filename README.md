@@ -51,6 +51,9 @@ python weather.py
 - letter_grade.py: Gets a numerical score from the user (0 to 100) and prints a corresponding letter grade based on the provided grading scale.
 
 # Important Note
+The advanced python scripts are not curently up yet! These will be added soon.
+
+
 This repository is not intended to be your first attempt at Python. It is designed to help you brush up on your skills or challenge your understanding of programming concepts. However, if you still wish to learn python from doing, then solve the scripts in to_solve, becuse these have the most helpful comments. 
 
 Happy coding!
